@@ -1,0 +1,23 @@
+{
+  "name": "exp1",
+  "version": "1.0.0",
+  "description": "Create basic web pages usingHTML and inspect HTTP headers.",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yash-89/Web-Computing-Experiments.git"
+  },
+  "author": "yash",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yash-89/Web-Computing-Experiments/issues"
+  },
+  "homepage": "https://github.com/Yash-89/Web-Computing-Experiments#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
