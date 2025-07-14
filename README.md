@@ -1,5 +1,5 @@
 # Web-Computing-Experiments
-To run the page:
+To run any experiment:
 - Open the folder in which you want to clone the experiment files in Terminal.
 - Type the command: git clone https://github.com/Yash-89/Web-Computing-Experiments.git
 - Open the required experiment folder in VS Code.
